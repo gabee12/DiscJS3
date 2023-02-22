@@ -1,0 +1,29 @@
+{
+  "name": "discjs3",
+  "version": "1.0.0",
+  "description": "Discord bot application for personal use",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabee12/DiscJS3.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Gabriel Echeverria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabee12/DiscJS3/issues"
+  },
+  "homepage": "https://github.com/gabee12/DiscJS3#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
